@@ -1,35 +1,38 @@
 Mounting Bolt
 U Bolt
 Bolt 
-Mounting screw 
+Mounting washer
+Mounting screw
 Flanged screw
-Screw 
-Mounting nut 
+Screw
+Mounting nut
 Flanged nut
-Nut 
-Spindle 
-Rivet 
-Dowel 
+Nut
+Spindle
+Rivet
+Dowel
+King Pin
 Clevis Pin
 Dowel Pin
 Threaded Pin
 Clip
-Grommet 
-Circlip 
-Bracket 
+Grommet
+Circlip
+Bracket
 Check strap
-Spring Band Clamp 
-Clamp 
+Spring Band Clamp
+Clamp
 Sintered Bush
 Rubber Bush
 Pivot Bush
-Bush 
+Bush
 Boss
-Yoke 
+Yoke
 Oil Ring
 Snap Ring
 Horn Ring
 Thrust Ring
+Arrestor Ring
 Rubber Buffer
 Buffer
 Gasket 
@@ -43,13 +46,21 @@ Primary Seal
 Seal 
 Rubber Spacer
 Nylon Spacer
-Ring Spacer
+Spacer Ring
 Spacer 
 Shim 
 Plastic Washer 
 Thrust Washer
 Washer 
 Gusset
+Clutch Cover
+Engine Cover
+Side Valance Cover
+Lamp Cover
+Wheel Cover
+Cover 
+Cap
+Garnish
 Floor Wiring Harness
 Door Wiring Harness
 Main Wiring Harness
@@ -82,6 +93,8 @@ Brake Hose
 Vapour Hose
 Ribbed Hose
 Hose 
+Water Distribution
+Reinforcement 
 Rib
 Stiffener
 Heat Shield
@@ -94,7 +107,6 @@ Spring Washer
 Bright Washer 
 Valve Seat 
 Exhaust Valve 
-Reinforcement 
 Switch Bezel 
 Steering Wheel
 Steering column
@@ -177,6 +189,7 @@ poly Belt
 Belt 
 AC Compressor
 Compressor 
+Radiator Fan
 Radiator
 Anti Roll Bar 
 Stopper 
@@ -251,7 +264,9 @@ Clamp
 Bezel 
 Parking Brake Lever
 Gear Shift Lever
+Clutch Release Lever
 Lever 
+Gear Shift Knob
 Horn Pad
 Horn
 Rubber Pad
@@ -263,12 +278,8 @@ Dead Pedal
 Brake & Clutch Pedal
 Integrated Pedal
 Pedal 
+Clutch Disc
 Clutch
-Engine Cover
-Side Valance Cover
-Lamp Cover
-Wheel Cover
-Cover 
 Engine cradle
 Engine Hood
 Instrument Cluster
@@ -293,7 +304,6 @@ Shifter Shaft
 Rear Axle Shaft
 Shaft 
 Pulley
-Garnish
 Brake Drum
 Hand Brake
 Parking Brake
@@ -328,7 +338,7 @@ Roof bow
 Roof
 Wheel Arch
 Twist Beam
-Car Beam
+Cross Car Beam
 Rear Axle Beam
 Front Axle Beam
 Axle Beam
@@ -354,6 +364,7 @@ Door Latch
 Tailgate Latch
 Power Latch
 Latch 
+Striker
 Parabolic Leaf Spring
 Leaf Spring 
 Compression Spring
@@ -389,6 +400,7 @@ Lock
 Door 
 Structural Foam
 Foam 
+Structural Pad
 Starter Motor
 Wiper Motor
 Traction Motor
@@ -414,8 +426,8 @@ Suspension Support
 Front Suspension
 Rear Suspension
 Air Suspension
-Driver Seat
 Co-driver Seat
+Driver Seat
 Rear Seat
 Front Seat
 Seat 
@@ -439,6 +451,7 @@ Front Axle
 Stub Axle
 Axle 
 Bonnet
+Stay Rod
 Rubber Packing
 Rubber Block
 Plummer Block
@@ -484,6 +497,7 @@ Parking Camera
 Camera
 Tensioner
 Differential housing
+Warning Triangle
 Safety Triangle
 Auto Slack Adjuster
 DPF
@@ -501,3 +515,9 @@ Tailgate
 After Treatment Assy
 Cantrail
 Wiper System
+Sunvisor
+Dog
+Finger
+O Ring
+USB Charger
+Armrest
