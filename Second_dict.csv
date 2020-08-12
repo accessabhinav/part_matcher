@@ -166,6 +166,7 @@ Pipe Assy,
 Pipe,
 Connecting,Rod
 Con,Rod
+Torque,Rod
 Air Intake,System
 Air Intake,Assy
 Hole Plug,
@@ -370,6 +371,7 @@ Parabolic,Leaf Spring
 Leaf Spring,
 Compression,Spring
 Coil,Spring
+Spring,
 Dashboard Skin,
 Dashboard,
 Structural,Tape
@@ -461,6 +463,7 @@ Rear,Hub
 Hub,
 Nacelle,
 Spoiler,
+VECU,
 EMS,ECU
 ABS,ECU
 Airbag,ECU
@@ -522,3 +525,7 @@ Finger,
 O,Ring
 USB,Charger
 Armrest,
+Speaker,
+Anti Vibration,Sheet
+Outer,Body Side Assy
+Inner,Body Side Assy
